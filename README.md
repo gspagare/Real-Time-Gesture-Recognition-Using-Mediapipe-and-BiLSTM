@@ -2,7 +2,7 @@
 
 ## Description
 
-This project implements a real-time gesture recognition system that uses the Mediapipe library for detecting and extracting keypoints and a Bidirectional LSTM neural network for classifying gestures. The system is designed to work with live video input from a webcam, making it suitable for various applications such as sign language recognition, human-computer interaction, and more.
+This project implements a real-time gesture recognition system that uses the Mediapipe library for detecting and extracting keypoints and a Bidirectional LSTM neural network for classifying gestures. The system is designed to work with live video input from a webcam, making it suitable for various applications such as sign language recognition, human-computer interaction, and more. The entire implementation is provided in a Jupyter Notebook.
 
 ## Table of Contents
 - [Features](#features)
@@ -43,13 +43,12 @@ This project implements a real-time gesture recognition system that uses the Med
 
 ## Usage
 
-1. **Run the gesture recognition script**:
+1. **Run the Jupyter Notebook**:
     ```bash
-    python gesture_recognition.py
+    jupyter notebook gesture_recognition.ipynb
     ```
 
-2. **Control the application**:
-    - Press `q` to quit the application.
+2. **Follow the instructions within the notebook** to perform live gesture recognition.
 
 ## Model Architecture
 
