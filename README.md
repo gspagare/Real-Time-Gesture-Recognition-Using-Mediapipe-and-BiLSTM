@@ -1,0 +1,2 @@
+# Real-Time-Gesture-Recognition-Using-Mediapipe-and-BiLSTM
+This repository contains the implementation of a real-time gesture recognition system using Mediapipe for keypoint extraction and a Bidirectional LSTM neural network for gesture classification. The system captures video input, processes it to detect and track facial, pose, and hand landmarks, and predicts gestures based on the extracted keypoints.
