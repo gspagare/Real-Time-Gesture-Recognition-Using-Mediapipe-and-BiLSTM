@@ -9,8 +9,6 @@ This project implements a real-time gesture recognition system that uses the Med
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Architecture](#model-architecture)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Real-time video capture and processing.
